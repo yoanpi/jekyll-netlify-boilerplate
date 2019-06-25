@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Bienvenu
 permalink: /
-section: home
+section: accueil
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Les vrais enjeux de la réforme des retraites sont gardés sous le tapis pour focaliser l'attention sur le changement à une retraite à points. Nous voulons réorienter le débat sur les sujets importants autour de cette réforme en particulier et de la retraite en général.
 ---

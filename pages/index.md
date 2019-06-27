@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bienvenu
+title: 👋 Bienvenu
 permalink: /
 section: accueil
 intro_paragraph: >

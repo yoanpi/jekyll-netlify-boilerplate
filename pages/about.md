@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 🧐 À propos
 permalink: /about
 section: about
 intro_paragraph: |

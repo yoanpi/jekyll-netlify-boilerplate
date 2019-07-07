@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📊 En savoir plus sur le future de notre système de retraite
+title: "\U0001F4CA En savoir plus sur le futur de notre système de retraite"
 author: collectif
 date: '2018-07-08 12:00:00'
 categories: misc

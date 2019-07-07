@@ -1,18 +1,12 @@
 ---
 layout: page
-title: 🧐 À propos
+title: "\U0001F9D0 À propos"
 permalink: /about
 section: about
-intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+intro_paragraph: ''
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Nous sommes un collectif de citoyens qui souhaite faire la transparence dans le débat public sur la réforme des retraites préparée par le Gouvernement. Alors que les informations sont difficiles d’accès et souvent incomplètes, nous souhaitons faire ressortir les enjeux de cette réforme, décrypter les discours techniques et les idées reçues afin de mettre à disposition de toutes et tous des informations vérifiées et accessibles. A cette fin, nous compilons toutes les données disponibles et nous nous informons auprès de tous les experts et personnes renseignées prêts à nous aider. 
 
-### A heading
+Tous les articles et données qui appuient les analyses mises à disposition sur ce site sont en libre accès [ici](https://www.reformedesretraites.fr/blog/lectures) et sont mis à jour le plus régulièrement possible. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ce site a vocation à s’étoffer grâce aux informations que vous nous faites parvenir et aux questions que vous nous remontez : n’hésitez pas à [nous contacter](https://www.reformedesretraites.fr/contact) !

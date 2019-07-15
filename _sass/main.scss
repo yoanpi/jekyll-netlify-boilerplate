@@ -1,11 +1,38 @@
 @charset "utf-8";
 
 @import
-  "partials/fonts",
-  "partials/variables",
-  "partials/mixins",
-  "partials/normalize",
-  "partials/utilities",
-  "partials/typography",
-  "partials/app"
+  "partials/variables"
 ;
+
+body {
+    font-family: sans-serif;
+    background-color: $brand-color;
+    color: $brand-color-white;
+    font-size: 200%;
+    text-align: center;
+}
+
+form, .input {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    max-width: 30em;
+    margin: auto;
+}
+
+.input {
+    max-width: 30em;
+    margin: auto;
+    height: 200%;
+}
+
+label {
+    margin-top: 3em;
+}
+
+input, button {
+    margin: 0.3em;
+    font-size: 80%;
+}

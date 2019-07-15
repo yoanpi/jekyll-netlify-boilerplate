@@ -33,4 +33,4 @@ bundle exec jekyll server --watch
 
 Une version locale du site est alors visible à l'adresse suivante [localhost:4000](http://localhost:4000/).
 
-Pour toutes questions, vous pouvez nous contacter via [le formulaire de contact](https://www.reformedesretraites.fr/contact) ou bien créer une [_issue_](https://github.com/reformedesretraites/site/issues/new).
+Pour toutes questions, vous pouvez nous contacter via [le formulaire de contact](https://www.reformedesretraites.fr/contact) ou bien créer une [_issue_](https://github.com/reformedesretraites/site/issues/new

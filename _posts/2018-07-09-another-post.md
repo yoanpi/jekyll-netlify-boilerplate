@@ -3,6 +3,7 @@ layout: post
 title: ⏲ Comprendre notre système de retraite actuel en 3 minutes
 author: collectif
 date: '2018-07-09 12:00:00'
+intro_paragraph: Test
 categories: misc
 ---
 # 1) La « répartition », qu’est-ce que c’est ?
